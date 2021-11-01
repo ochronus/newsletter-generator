@@ -1,0 +1,4 @@
+github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815 h1:bWDMxwH3px2JBh6AyO7hdCn/PkvCZXii8TGj7sbtEbQ=
+github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815/go.mod h1:WwZ+bS3ebgob9U8Nd0kOddGdZWjyMGR8Wziv+TBNwSE=
+github.com/motemen/go-pocket v0.0.0-20201204003030-43b897100651 h1:4h2p7Aoo823bPzV+ctcn11FPqdv7WMLSIx1k0fjQnz0=
+github.com/motemen/go-pocket v0.0.0-20201204003030-43b897100651/go.mod h1:bg7ss2WtX3nP/McrX592dwx4hMYtH2PvP4a6VKGOBto=
