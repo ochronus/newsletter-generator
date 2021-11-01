@@ -29,5 +29,15 @@ func main() {
 		for tag, _ := range item.Tags {
 			fmt.Println("\t", tag)
 		}
+
+		ai := &authInfo{
+			ConsumerKey: consumerKey,
+			AccessToken: accessToken.AccessToken,
+		}
+		res, err := AddTags(client, ai, item.ItemID, []string{"yolo"})
+		if err != nil {
+			panic(err)
+		}
+		fmt.Println(res)
 	}
 }
